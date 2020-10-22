@@ -1,40 +1,28 @@
-
-#h1{
-  background-color: black;
-  border: 2px solid black;
+h1 {
+  color: pink;
+  text-align: center;
 }
 
-#h11{
-background-color: grey;
-display: inline-block;
-width:33%;
-height: 33%;
-}
-#h12{
-background-color: white;
-display: inline-block;
-width:66%;
-height: 33%;
+#m {
+  color: blue;
+  height: 50%;
 }
 
-#h121{
-  background-color: black;
-  min-height: 20px;
-}
-#h1211{
-  background-color: grey;
-display: inline-block;
-width:79%;
+#h {
+  background-color: blanchedalmond;
+  display: inline-block;
+   width: 50%;
+   height : 15cm;
 }
 
-#h1212{
-  background-color: darkgray;
-display: inline-block;
-width:19%;
+p{
+   width: 98%
 }
+#j {
+  background-color: gainsboro;
+  
+   width: 50%;
+   float: left;
+   height : 15cm;
 
-#h1231{
-   background-color: purple;
-display: inline-block;
-width:16%;
 }
